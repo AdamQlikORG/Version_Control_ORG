@@ -47,16 +47,11 @@
     "task.onboarding_storage-c0vh.databaseName": "{{task-type.storage.databaseName}}",
     "task.onboarding_storage-c0vh.internalSchema": "",
     "task.onboarding_storage-c0vh.taskSchema": "",
-    "task.onboarding_storage-c0vh.warehouseName": "{{task-type.storage.warehouseName}}",
-    "task.transform-gzlw.databaseName": "{{task-type.transform.databaseName}}",
-    "task.transform-gzlw.internalSchema": "",
-    "task.transform-gzlw.taskSchema": "",
-    "task.transform-gzlw.warehouseName": "{{task-type.transform.warehouseName}}"
+    "task.onboarding_storage-c0vh.warehouseName": "{{task-type.storage.warehouseName}}"
   },
   "idToNameMap": {
     "onboarding_landing-c0vg": "Onboarding_Landing",
-    "onboarding_storage-c0vh": "Onboarding_Storage",
-    "transform-gzlw": "Transform"
+    "onboarding_storage-c0vh": "Onboarding_Storage"
   },
   "connectionProperties": {
     "task.onboarding_landing-c0vg.sourceConnection": {
